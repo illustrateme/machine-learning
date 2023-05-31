@@ -1,0 +1,4 @@
+DESCRIPTION
+img_price: price in US$
+img_design_type: 0 = "logos", 1="illustrations", 2="pattern designs", 3="fonts & typography"
+img_design_style: 0 = "minimalist", 1="hand drawn", 2="vintage", 3="3d", 4="geometric", 5="realistic", 6="sketch", 7="cartoon", 8="pop art", 9="abstract", 10="calligraphy", 11="handwritten", 12="font design"

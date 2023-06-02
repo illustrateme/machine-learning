@@ -1,4 +1,8 @@
 DESCRIPTION
-img_price: price in US$
-img_design_type: 0 = "logos", 1="illustrations", 2="pattern designs", 3="fonts & typography"
-img_design_style: 0 = "minimalist", 1="hand drawn", 2="vintage", 3="3d", 4="geometric", 5="realistic", 6="sketch", 7="cartoon", 8="pop art", 9="abstract", 10="calligraphy", 11="handwritten", 12="font design"
+illustrator_name: user name of illustrator
+gig_rating: collective rating by clients
+gig_price_from: gig starting price in US$
+gig_img_url: gig display image URL
+gig_url: gig page URL
+gig_design_type: 0 = "logos", 1="illustrations", 2="pattern designs", 3="fonts & typography"
+gig_design_style: 0 = "minimalist", 1="hand drawn", 2="vintage", 3="3d", 4="modern", 5="realistic", 6="sketch", 7="cartoon", 8="pop art", 9="abstract", 10="anime", 11="line art", 12="typography", 13="font design", 14="calligraphy", 15="hand lettering"

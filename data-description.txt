@@ -4,8 +4,8 @@ gig_rating: collective rating by clients
 gig_price_from: gig starting price in US$
 gig_img_url: gig display image URL
 gig_url: gig page URL
-gig_design_type: 0 = "logos", 1="illustrations", 2="pattern designs", 3="fonts & typography"
-gig_design_style: 0 = "minimalist", 1="hand drawn", 2="vintage", 3="3d", 4="modern", 5="realistic", 6="sketch", 7="cartoon", 8="pop art", 9="abstract", 10="anime", 11="line art", 12="typography", 13="font design", 14="calligraphy", 15="hand lettering"
+gig_design_type: "logos", "illustrations", "pattern designs", "fonts & typography"
+gig_design_style: "minimalist", "hand drawn", "vintage", "3d", "modern", "realistic", "sketch", "cartoon", "pop art", "abstract", "anime", "line art", "typography", "font design", "calligraphy", "hand lettering"
 client_origins: client's country of origin
 client_names: clients' usernames
 illustrator_origins: illustrator's country of origin

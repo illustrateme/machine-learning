@@ -1,0 +1,2 @@
+model_checkpoint_path: "tfrs-model"
+all_model_checkpoint_paths: "tfrs-model"

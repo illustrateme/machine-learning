@@ -3,17 +3,17 @@
 ## Recommendation Systems Tensorflow
 Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation systems Tensorflow  
 
-**Theory:** ML &amp; Deep Learning, Tensorflow
+**Theory:** ML &amp; Deep Learning, TensorFlow, TensorFlow Recommenders
 
-**Paradigms:** Content-based, Collaborative filtering, Knowledge-based
+**Paradigms:** Content-Based filtering, Collaborative filtering, Knowledge-based
 
-**Data:** Ilustrator profile fiverr, 
+**Data:** Illustrator Fiverr
 
 **Models:**  TensorFlow Recommenders (TFRS), Client Model, Item Model, Rating Model
 
 **Methods:** Recommender, Ranking, Embeddings, Brute Force
 
-**Process:** Setup, Encode &amp; Embed,Train &amp; Predict; Test &amp; Improve
+**Process:** Setup, MinMaxScaler, TfidfVectorizer, cosine_similarity, Embed, Train &amp; Predict, Test &amp; Improve
 
 **Tools:** python-data-stack: tensorflow, tensorflow_recommenders, numpy, pandas, sklearn-learn, keras, string, typing, 
 

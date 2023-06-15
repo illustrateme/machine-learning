@@ -9,13 +9,13 @@ Recommendation Systems This is a workshop on using Machine Learning and Deep Lea
 
 **Data:** Ilustrator profile fiverr
 
-**Models:** ~~ (Deep) Matrix Factorisation, Auto-Encoders, Wide &amp; Deep, Rank-Learning, Sequence Modelling ~~
+**Models:** ~~(Deep) Matrix Factorisation, Auto-Encoders, Wide &amp; Deep, Rank-Learning, Sequence Modelling~~
 
-**Methods:** ~~ Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social, ~~
+**Methods:** ~~Explicit vs. implicit feedback, User-Item matrix, Embeddings, Convolution, Recurrent, Domain Signals: location, time, context, social~~
 
-**Process:** ~~ Setup, Encode &amp; Embed, Design, Train &amp; Select, Serve &amp; Scale, Measure, Test &amp; Improve ~~
+**Process:** ~~Setup, Encode &amp; Embed, Design, Train &amp; Select, Serve &amp; Scale, Measure, Test &amp; Improve~~
 
-**Tools:** ~~ python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm ~~
+**Tools:** ~~python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm~~
 
 <!--
 

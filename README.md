@@ -15,7 +15,7 @@ Recommendation Systems This is a workshop on using Machine Learning and Deep Lea
 
 **Process:** Setup, MinMaxScaler, TfidfVectorizer, cosine_similarity, Embed, Train &amp; Predict, Test &amp; Improve
 
-**Tools:** python-data-stack: tensorflow, tensorflow_recommenders, numpy, pandas, sklearn-learn, keras, string, typing, 
+**Tools:** python-data-stack: tensorflow, tensorflow_recommenders, numpy, pandas, scikit learn, sklearn-learn, keras, string, typing, 
 
 **Collecting Data:** Data Mining, Web Scrapping Python
 

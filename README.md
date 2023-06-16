@@ -13,7 +13,7 @@ Recommendation Systems This is a workshop on using Machine Learning and Deep Lea
 
 **Methods:** Recommender, Ranking, Embeddings, Brute Force
 
-**Process:** Setup, MinMaxScaler, TfidfVectorizer, cosine_similarity, Embed, Train &amp; Predict, Test &amp; Improve
+**Process:** Setup, Embed, Train &amp; Predict, Test &amp; Improve
 
 **Tools:** python-data-stack: tensorflow, tensorflow_recommenders, numpy, pandas, scikit learn, sklearn-learn, keras, string, typing, 
 

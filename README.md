@@ -76,7 +76,8 @@ The dataset used in this project is a dataset taken from the Fiverr Website with
   - illustrator_origins: illustrator's country of origin
   - illustrator_response_times: illustrator response time in hour(s)
 
-
+## Visualization
+![Visualization Gig Design Type.png](https://raw.githubusercontent.com/illustrateme/machine-learning/main/Visualization%20Gig%20Design%20Type.png)
 
 <!--
 

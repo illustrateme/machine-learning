@@ -48,19 +48,19 @@ The dataset used in this project is a dataset taken from the Fiverr Website with
 
   **Tabel 1. Informasi Dataset fiverr_data.csv**
 
-  | #   | Column       | Non-Null Count | Dtype   |
-  | --- | ------------ | -------------- | ------- |
-  | 0   | Place_Id     | 437 non-null   | int64   |
-  | 1   | Place_Name   | 437 non-null   | object  |
-  | 2   | Description  | 437 non-null   | object  |
-  | 3   | Category     | 437 non-null   | object  |
-  | 4   | City         | 437 non-null   | object  |
-  | 5   | Price        | 437 non-null   | int64   |
-  | 6   | Rating       | 437 non-null   | float64 |
-  | 7   | Time_Minutes | 205 non-null   | float64 |
-  | 8   | Coordinate   | 437 non-null   | object  |
-  | 9   | Lat          | 437 non-null   | float64 |
-  | 10  | Long         | 437 non-null   | float64 |
+  | #   | Column             | Non-Null Count | Dtype  |
+  | --- | -----------------  | -------------- | -------|
+  | 0   | illustrator_name   | 437 non-null   | int64  |
+  | 1   | gig_rating         | 437 non-null   | float64|
+  | 2   | gig_price_from     | 437 non-null   | int64  |
+  | 3   | gig_img_url        | 437 non-null   | object |
+  | 4   | gig_url            | 437 non-null   | object |
+  | 5   | gig_design_type    | 437 non-null   | object |
+  | 6   | gig_design_style   | 437 non-null   | object |
+  | 7   | client_origins     | 205 non-null   | object |
+  | 8   | client_names       | 437 non-null   | object |
+  | 9   | illustrator_origins| 437 non-null   | object |
+
 
   fiverr_data.csv consists of 1686 rows and 9 columns as follows:
 
